@@ -1,4 +1,4 @@
-name: Deploy Azure with Gitops-Kustomize
+name: Deploy Azure with Gitops-edu-frontend
 
 on:      
   workflow_dispatch:
